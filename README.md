@@ -16,12 +16,7 @@ positioning, and survival.
 ### Requirements
 - Python 3.10 or newer
 - Pygame
-```bash
-cd Mage-Arena-Pygame
-python -m venv venv
-pip install -r requirements.txt
-python main.py
-```
+
 ### Instructions
 1. Clone the repository:
 ```bash
